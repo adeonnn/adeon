@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>{adeon}</title>
-    <link>http://localhost:1313/adeon/</link>
-    <description>Recent content on {adeon}</description>
+    <title>Opowiadania on {adeon}</title>
+    <link>http://localhost:1313/adeon/opowiadania/</link>
+    <description>Recent content in Opowiadania on {adeon}</description>
     <generator>Hugo</generator>
     <language>pl</language>
     <lastBuildDate>Sun, 17 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/adeon/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/adeon/opowiadania/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pamiątka po M</title>
       <link>http://localhost:1313/adeon/opowiadania/pamiatka-po-m/</link>
       <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/adeon/opowiadania/pamiatka-po-m/</guid>
       <description>&lt;p&gt;Obudził się z ciężkim, zapadającym tors poczuciem braku. Ból fantomowy. Swoje źródło miał w Jej braku i tegoż braku nieuchronności. Ociężało całe ciało zmuszone było wstać i zmierzyć się z koniecznością poranka, a konieczność ten łagodził fakt, iż była właśnie niedziela. Niedziela, uświęcony dzień powolności, dyskretne okno wolności, dzień niemuszenia, dzień rolad wołowych, kapusty zasmażanej, dzień kawy pitej perwersyjnie, bo dla samej rozkoszy zażywanego narkotyku, bez funkcji „stawiania na nogi”. Można by niedzielę przeleżeć, jednak z kawą można ją przesiedzieć, przespacerować. Niedzielne twarze spacerowiczów są często wypoczęte, zastygłe w delikatnej osnowie spokoju, gładkie (a przynajmniej tak wydaje się samym niedzielnym rozkosznikom). Oczy niedzielnych spacerowiczów często są przymrużone (nie tylko od słońca), chcąc nieco odpocząć od tygodniowej manii wszechobserwacji. Jest jednak dopiero poranek, właściwie przedranek - godzina 7:14, zakończmy chwilowo niedzielne dygresje. Jego przebudzenie było nagłe od swego ciężaru, samo wstawanie przedłużało się, ze snu w półsen, z półsnu przetaczało się w lenistwo (epitet „zwyczajne” [lenistwo] byłby tak bardzo matczynym zabiegiem wychowawczym, sam nie wiem, czy przystającym do konstrukcji opowiadania. Musielibyśmy do formy wpuścić zabieg który na wzór epitetu homeryckiego nazwałbym epitetem matczynym - zatem  z w y k ł e  lenistwo). Dzień był zaplanowany z zamiarem wypełnienia antydepresyjnymi aktywnościami. Taką czynnością było pójście z ziomkami na mecz. Na mecze nie chodził, jednak jego (mało sprytnym) sposobem na wyparcie było przeżywanie zdarzeń nieprzeżywanych, zgodnie z naiwną logiką że nowość życiowych doświadczeń pozwoli na uśmierzenie wszechpotężnego fantomowego bólu Jej nieobecności.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Rozdział 1</title>
-      <link>http://localhost:1313/adeon/posts/pierwszy-wpis/</link>
-      <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/adeon/posts/pierwszy-wpis/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>

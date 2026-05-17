@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Próby</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Próby</description>
+    <title>Posts on {adeon}</title>
+    <link>http://localhost:1313/adeon/posts/</link>
+    <description>Recent content in Posts on {adeon}</description>
     <generator>Hugo</generator>
     <language>pl</language>
     <lastBuildDate>Sun, 17 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/adeon/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rozdział 1</title>
-      <link>http://localhost:1313/posts/pierwszy-wpis/</link>
+      <link>http://localhost:1313/adeon/posts/pierwszy-wpis/</link>
       <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/pierwszy-wpis/</guid>
+      <guid>http://localhost:1313/adeon/posts/pierwszy-wpis/</guid>
       <description></description>
     </item>
   </channel>

@@ -1,4 +1,17 @@
 baseURL = 'https://adeonnn.github.io/adeon/'
 locale = 'pl'
-title = 'Próby'
+title = '{adeon}'
 theme = 'PaperMod'
+[menus]
+  [[menus.main]]
+    name = 'Strona główna'
+    pageRef = '/'
+    weight = 10
+  [[menus.main]]
+    name = 'Social Media - Powieść w odcinkach'
+    pageRef = '/social_media'
+    weight = 20
+  [[menus.main]]
+    name = 'Opowiadania'
+    pageRef = '/opowiadania'
+    weight = 30

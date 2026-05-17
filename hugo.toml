@@ -1,0 +1,4 @@
+baseURL = 'https://adeon-literacki.github.io'
+locale = 'pl'
+title = 'Próby'
+theme = 'PaperMod'
